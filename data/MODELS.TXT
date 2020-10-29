@@ -8,14 +8,12 @@ maxfreespecials 99
 
 # Required objects. These must always be loaded.
 load	Flash		data/chars/misc/flash.txt
-load    cut             data/chars/malin/cut.txt
 
 # Players must also be loaded.
-load	Malin		data/chars/malin/malin.txt
-load	Aki       	data/chars/aki/aki.txt
+
 
 #Enemies
-know	E-MAI		data/chars/mai2/mai2.txt
+
 
 # Items and other objects can be loaded when needed.
 know	Apple		data/chars/misc/apple.txt
@@ -42,6 +40,4 @@ know	Star		data/chars/misc/star.txt
 know	Steam		data/chars/misc/steam.txt
 know	Steamer		data/chars/misc/steamer.txt
 know	Furnace		data/chars/misc/furnace.txt
-know	Crab		data/chars/crab/crab.txt
-know	Lobster		data/chars/Lobster/Lobster.txt
 
