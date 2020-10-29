@@ -4,6 +4,7 @@
 # know		[name]		[path]		// Load when needed
 # 
 maxattacks	10
+maxfreespecials 99
 
 # Required objects. These must always be loaded.
 load	Flash		data/chars/misc/flash.txt
