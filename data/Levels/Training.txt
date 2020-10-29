@@ -1,0 +1,10 @@
+
+
+
+panel		data/bgs/Training.png
+
+order aaaaaaaaaaa
+
+spawn E-MAI
+coords 954 181
+at 236
