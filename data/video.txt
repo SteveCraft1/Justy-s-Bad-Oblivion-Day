@@ -1,0 +1,6 @@
+#-------------------STREET FIGHTER ORIGIN:RED CYCLONE ZANGIEF-------------------------------
+
+colourdepth 32bit
+video = 1
+
+
