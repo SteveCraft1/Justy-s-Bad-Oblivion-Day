@@ -9,16 +9,6 @@
 #
 
 
-set	water_(3_levels)
-file	data/levels/water.txt
-file	data/levels/water2.txt
-file	data/levels/water3.txt
-
-set	modes_(2_levels)
-file	data/levels/neon.txt
-file	data/levels/screen.txt
-
-
 set     Training
 z 150 213 160
 file    data/levels/Training.txt
