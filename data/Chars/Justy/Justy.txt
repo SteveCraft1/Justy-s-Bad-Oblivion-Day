@@ -1,4 +1,4 @@
-name
-health	
-type
-speed
+name Justy
+health 105
+type player
+speed 7
