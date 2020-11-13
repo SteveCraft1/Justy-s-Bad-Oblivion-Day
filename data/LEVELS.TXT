@@ -8,6 +8,15 @@
 #	scene	[filename]	Show a cut-scene
 #
 
+#Player status location
+p1life -300 -300
+
+p2life -300 -300
+
+
+
+
+
 
 set     Training
 z 150 213 160
