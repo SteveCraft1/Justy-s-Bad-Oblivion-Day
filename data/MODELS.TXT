@@ -9,7 +9,14 @@ maxfreespecials 99
 # Required objects. These must always be loaded.
 load	Flash		data/chars/misc/flash.txt
 
-# Players must also be loaded.
+#Justy
+load	Justy		data/chars/Justy/Justy.txt
+
+
+
+#Ivan
+
+
 
 
 #Enemies
