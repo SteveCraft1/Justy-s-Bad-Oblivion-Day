@@ -10,6 +10,8 @@ void main()
 			int HP1 = getentityproperty(P1, "health");
 			drawbox(33,5,62,11,1500,rgbcolor(255,135,0),0);
 			drawsprite(Bar, 3, 3, 1000);
+			int JustyAMMO = getentityproperty(P1, "mp");
+			drawstring (109, 12, 2, JustyAMMO);
 		}
 	}
 }
