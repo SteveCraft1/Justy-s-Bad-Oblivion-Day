@@ -1,4 +1,5 @@
 name
-health
-type
-speed
+health 9
+type player
+speed 
+mp 5
