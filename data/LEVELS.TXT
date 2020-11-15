@@ -23,5 +23,8 @@ z 150 213 160
 file    data/levels/Training.txt
 
 set      Prototype_Stages
+credits 99
+noshare 1
+
 
 #set     Story_Mode
