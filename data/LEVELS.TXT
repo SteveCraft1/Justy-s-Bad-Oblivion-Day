@@ -22,4 +22,6 @@ set     Training
 z 150 213 160
 file    data/levels/Training.txt
 
-set     Story_Mode
+set      Prototype_Stages
+
+#set     Story_Mode
