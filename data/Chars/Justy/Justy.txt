@@ -2,8 +2,8 @@ name Justy
 health 105
 type player
 speed 7
+mp 50
 
-	Ondrawscript data/scripts/JustyAMMO.c
 
 anim	idle
 	offset	30 55
