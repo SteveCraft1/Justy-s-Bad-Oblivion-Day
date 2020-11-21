@@ -1,0 +1,5 @@
+name Firey_Jr
+type player
+speed
+mp 30
+health 75
