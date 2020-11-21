@@ -1,5 +1,8 @@
-name
+name Ivan
 health 9
 type player
-speed 
+speed
 mp 5
+
+#|edited by openBor Stats v 0.53
+
