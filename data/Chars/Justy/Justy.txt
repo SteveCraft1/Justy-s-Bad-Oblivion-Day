@@ -5,9 +5,18 @@ speed 7
 mp 50
 
 
+
+
+
 anim	idle
-	offset	30 55
-	frame	data/chars/Justy/IdleTest.png
+	loop	1
+	delay	10
+	offset	15 60
+	frame	data/chars/Justy/idle0.png
+	frame	data/chars/Justy/idle1.png
+	offset	15 58
+	frame	data/chars/Justy/idle2.png
+	frame	data/chars/Justy/idle3.png
 		
 #|edited by openBor Stats v 0.53
 		
