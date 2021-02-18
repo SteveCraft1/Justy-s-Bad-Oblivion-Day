@@ -1,0 +1,5 @@
+name Platform1
+health 1
+speed 0
+nolife 1
+nomove 1 0
